@@ -15,6 +15,7 @@
         <button class="btn btn-primary">Agregar al carrito</button>
 		<br>
         <button class="btn btn-secondary">Productos disponibles</button>
+	<button type="button" class="btn btn-danger">Deshabilitar producto</button>
     </div>
     <div class = "producto">
         <h2>Producto 2</h2>
@@ -22,9 +23,13 @@
         <p>Precio: $00</p>
         <button class="btn btn-primary">Agregar al carrito</button> 
 		<br>
-        <button class="btn btn-secondary">Productos disponibles</button> 
+        <button class="btn btn-secondary">Productos disponibles</button>
+	<button class="btn btn-secondary">Productos disponibles</button> 
+	<button type="button" class="btn btn-danger">Deshabilitar producto</button>
+
 </body>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+	    
 </html>
